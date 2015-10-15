@@ -1,5 +1,6 @@
 a)
-mysql> select count(*), path from weblog group by path order by count(*) desc limit 10;+----------+----------------------------------------------------------+
+mysql> select count(*), path from weblog group by path order by count(*) desc limit 10;
++----------+----------------------------------------------------------+
 | count(*) | path                                                     |
 +----------+----------------------------------------------------------+
 |     1324 | /library/conditionalstyle.asp                            |
