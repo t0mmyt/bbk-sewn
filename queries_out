@@ -1,0 +1,54 @@
+a)
+mysql> select count(*), path from weblog group by path order by count(*) desc limit 10;+----------+----------------------------------------------------------+
+| count(*) | path                                                     |
++----------+----------------------------------------------------------+
+|     1324 | /library/conditionalstyle.asp                            |
+|      957 | /uk/letters/letters.asp                                  |
+|      872 | /uk/home/Default.asp                                     |
+|      631 | /Default.asp                                             |
+|      511 | /uk/financialcentre/tax_calculator_tool.asp              |
+|      471 | /uk/letters/default.asp                                  |
+|      388 | /uk/letters/resignation_letter_generator_form_v2.asp     |
+|      387 | /uk/discussion/new_topic.asp                             |
+|      281 | /uk/letters/resignation_letter_generator_generate_v2.asp |
+|      206 | /uk/financialcentre/tax_calculator.asp                   |
++----------+----------------------------------------------------------+
+
+b)
+mysql> select count(*), inet_ntoa(ip) from weblog group by ip order by count(*) desc limit 10;
++----------+-----------------+
+| count(*) | inet_ntoa(ip)   |
++----------+-----------------+
+|      554 | 195.149.39.85   |
+|      328 | 65.214.36.156   |
+|      194 | 65.214.36.152   |
+|      192 | 213.199.149.236 |
+|       88 | 209.140.222.149 |
+|       84 | 195.92.168.177  |
+|       79 | 62.254.0.7      |
+|       72 | 192.168.1.6     |
+|       60 | 12.47.98.180    |
+|       58 | 62.255.64.5     |
++----------+-----------------+
+
+c)
+mysql> select hour(time), count(*) from weblog group by hour(time) order by count(*) desc limit 3;
++------------+----------+
+| hour(time) | count(*) |
++------------+----------+
+|         20 |      645 |
+|         14 |      608 |
+|         18 |      597 |
++------------+----------+
+
+d)
+mysql> select method, count(*) from weblog group by method;
++--------+----------+
+| method | count(*) |
++--------+----------+
+| -      |       10 |
+| GET    |     9583 |
+| HEAD   |       10 |
+| POST   |      240 |
++--------+----------+
+
