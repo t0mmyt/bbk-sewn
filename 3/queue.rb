@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+require File.dirname(__FILE__) + '/page.rb'
 
 class Queue
   def initialize(seed, ttl, robots, store, restrict)
