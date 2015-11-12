@@ -1,0 +1,1634 @@
+["http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/files/", "http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/images/", "http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/testpage.html", "http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/private/"]
+QUEUE:1
+TTL:  10 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+QUEUE:1
+TTL:  9 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/martin.htm
+QUEUE:1
+TTL:  8 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/mark.htm
+QUEUE:6
+TTL:  7 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/webtech.htm
+QUEUE:7
+TTL:  7 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/scsis.htm
+QUEUE:8
+TTL:  7 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lkl.htm
+QUEUE:7
+TTL:  7 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/webdyn.htm
+QUEUE:6
+TTL:  7 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/phd.htm
+QUEUE:7
+TTL:  7 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/azy.htm
+QUEUE:6
+TTL:  6 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lkl.htm
+QUEUE:5
+TTL:  6 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/research.htm
+QUEUE:5
+TTL:  6 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/research.htm
+QUEUE:5
+TTL:  6 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/staff.htm
+QUEUE:51
+TTL:  6 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/research.htm
+QUEUE:51
+TTL:  6 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/students.htm
+QUEUE:100
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/students.htm
+QUEUE:149
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/students.htm
+QUEUE:198
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:197
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:196
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../mark.htm
+QUEUE:202
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:201
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:200
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:199
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:198
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:197
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:196
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:195
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:194
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:193
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:192
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:191
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:190
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:189
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:188
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:187
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:186
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:185
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:184
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:183
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:182
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:181
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:180
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:179
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:178
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:177
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:176
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:175
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:174
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:173
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:172
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:171
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:170
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:169
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:168
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:167
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:166
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:165
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:164
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:163
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:162
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:161
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:160
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:159
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+QUEUE:158
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/students.htm
+QUEUE:207
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:206
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:205
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:204
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:203
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:202
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:201
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:200
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:199
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:198
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:197
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:196
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:195
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:194
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:193
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:192
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:191
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:190
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:189
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:188
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:187
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:186
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:185
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:184
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:183
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:182
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:181
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:180
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:179
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:178
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:177
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:176
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:175
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:174
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:173
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:172
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:171
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:170
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:169
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:168
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:167
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:166
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:165
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:164
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:163
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:162
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:161
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:160
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:159
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:158
+TTL:  5 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:157
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:156
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:155
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:154
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:153
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:152
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:151
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:150
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:149
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:148
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:147
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:146
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:145
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:144
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:143
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:142
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:141
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:140
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:139
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:138
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:137
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:136
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:135
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:134
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:133
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:132
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:131
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:130
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:129
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:128
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:127
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:126
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:125
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:124
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:123
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:122
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:121
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:120
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:119
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:118
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:117
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:116
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:115
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:114
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:113
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:112
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:111
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:110
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:109
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:108
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:107
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:106
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:105
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:104
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:103
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:102
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:101
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:100
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:99
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:98
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:97
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:96
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:95
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:94
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:93
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:92
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:91
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:90
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:89
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:88
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:87
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:86
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:85
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:84
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:83
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:82
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:81
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:80
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:79
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:78
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:77
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:76
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:75
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:74
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:73
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:72
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:71
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:70
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:69
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:68
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:67
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:66
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:65
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:64
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:63
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:62
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:61
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:60
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:59
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:58
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:57
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../webtech.htm
+QUEUE:58
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../scsis.htm
+QUEUE:60
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lkl.htm
+QUEUE:60
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../webdyn.htm
+QUEUE:59
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../phd.htm
+QUEUE:61
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../martin.htm
+QUEUE:61
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../azy.htm
+QUEUE:60
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:59
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:58
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:57
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:56
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:55
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:54
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:53
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:52
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:51
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:50
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:49
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:48
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:47
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:46
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:45
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:44
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:43
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:42
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:41
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:40
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:39
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:38
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:37
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:36
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:35
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:34
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:33
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:32
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:31
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:30
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:29
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:28
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:27
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:26
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:25
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:24
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:23
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:22
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:21
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:20
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:19
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:18
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:17
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:16
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:15
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:14
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:13
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:12
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:11
+TTL:  4 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+QUEUE:10
+TTL:  3 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lkl.htm
+QUEUE:10
+TTL:  3 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../research.htm
+QUEUE:10
+TTL:  3 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../files/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../files/shside.jpg
+QUEUE:9
+TTL:  3 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../research.htm
+QUEUE:9
+TTL:  3 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/staff.htm
+QUEUE:55
+TTL:  3 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+QUEUE:55
+TTL:  3 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../research.htm
+QUEUE:55
+TTL:  3 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../students.htm
+QUEUE:54
+TTL:  3 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+QUEUE:54
+TTL:  3 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../private/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../private/martinspages.htm
+QUEUE:55
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+QUEUE:55
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../students.htm
+QUEUE:54
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../students.htm
+QUEUE:53
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:52
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:51
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../mark.htm
+QUEUE:57
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:56
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:55
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:54
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:53
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:52
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:51
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:50
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:49
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:48
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:47
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:46
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:45
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:44
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:43
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:42
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:41
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:40
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:39
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:38
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:37
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:36
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:35
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:34
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:33
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:32
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:31
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:30
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:29
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:28
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:27
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:26
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:25
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:24
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:23
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:22
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:21
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:20
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:19
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:18
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:17
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:16
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:15
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:14
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+QUEUE:13
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../testpage.html
+QUEUE:12
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../students.htm
+QUEUE:11
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../testpage.html
+QUEUE:10
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../private/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../private/secret.htm
+QUEUE:9
+TTL:  2 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../private/
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../private/private.htm
+QUEUE:8
+TTL:  1 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../testpage.html
+QUEUE:7
+TTL:  1 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../webtech.htm
+QUEUE:6
+TTL:  1 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../scsis.htm
+QUEUE:5
+TTL:  1 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../lkl.htm
+QUEUE:4
+TTL:  1 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../webdyn.htm
+QUEUE:3
+TTL:  1 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../phd.htm
+QUEUE:2
+TTL:  1 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../martin.htm
+QUEUE:1
+TTL:  1 BASE: http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+GET:  http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../azy.htm
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/martin.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/testpage.html
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/martin.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/mark.htm
+      mailto:martin@dcs.bbk.ac.uk
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/private/martinspages.htm
+      http://validator.w3.org/check/referer
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/mark.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/webtech.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/scsis.htm
+      http://www.bbk.ac.uk/
+      http://www.dcs.bbk.ac.uk/~mark/book.html
+      http://www.dcs.bbk.ac.uk/~mark/handheld.html
+      http://www.dcs.bbk.ac.uk/~mark/games.html
+      http://www.dcs.bbk.ac.uk/~mark/bookshops.html
+      http://citeseer.nj.nec.com/cs
+      http://www.dcs.bbk.ac.uk/~mark/search.html
+      http://www.google.com
+      http://www.dcs.bbk.ac.uk/~mark/software.html
+      http://www.dcs.bbk.ac.uk/navigationzone/
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lkl.htm
+      http://www.dcs.bbk.ac.uk/webdyn
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/webdyn.htm
+      http://www2002.org/fulldayworkshops.html
+      http://www.dcs.bbk.ac.uk/~mark/papers.html
+      http://www.dcs.bbk.ac.uk/research/
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/phd.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/martin.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/azy.htm
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/webtech.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lkl.htm
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=nigel
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=rgj
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=ap
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=nigel
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/mark.htm
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=ap
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=ptw
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=ap
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=nigel
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=george
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=mick
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=gr
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=pjhk
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=rgj
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=nigel
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=rgj
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=keith
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=george
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/mark.htm
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=ptw
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=trevor
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=ptw
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/mark.htm
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=ap
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/mark.htm
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=george
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=trevor
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=ptw
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/mark.htm
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=ap
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/mark.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/research.htm
+      http://eros.dcs.bbk.ac.uk/dept/group_pubs.asp?resgrp=3
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/scsis.htm
+      http://www.bbk.ac.uk/
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/files/shside.jpg
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/research.htm
+      http://www.dcs.bbk.ac.uk/about/senatehouse.html
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/staff.htm
+      http://www.dcs.bbk.ac.uk/about/map.html
+      http://www.dcs.bbk.ac.uk/about/booth.html
+      http://www.dcs.bbk.ac.uk/about/scsis-bbk.txt
+      http://www.dcs.bbk.ac.uk/about/scsis-bbk.rtf
+      http://www.dcs.bbk.ac.uk/about/scsis-bbk.vcf
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lkl.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+      http://www.lonklab.ac.uk/news/index.html
+      http://www.lonklab.ac.uk/events/index.html
+      http://www.lonklab.ac.uk/projects/index.html
+      http://www.lonklab.ac.uk/biogs/index.html
+      http://www.lonklab.ac.uk/contacts/index.html
+      http://www.lonklab.ac.uk/research.html
+      http://www.lonklab.ac.uk/aims.html
+      http://www.lonklab.ac.uk/history.html
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/scsis.htm
+      http://ioewebserver.ioe.ac.uk/ioe/index.html
+      http://www.lonklab.ac.uk/research.html
+      http://www.lonklab.ac.uk/aims.html
+      http://www.lonklab.ac.uk/history.html
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/webdyn.htm
+      http://www2002.org/fulldayworkshops.html
+      http://www2002.org/
+      http://www.dcs.bbk.ac.uk/webdyn/
+      http://www.webdyn.org/index.html
+      http://www.webdyn.org/onlineproceedings.html
+      http://www.webdyn.org/programme.html
+      http://www.webdyn.org/progcomm.html
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/phd.htm
+      http://www.dcs.bbk.ac.uk/research/phdbbk_public.html#sec:report
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/mark.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/research.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/students.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
+      http://www.dcs.bbk.ac.uk/seminars/
+      http://www.dcs.bbk.ac.uk/enquiry.html
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/azy.htm
+      http://www.bbk.ac.uk
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/scsis.htm
+      http://www.bbk.ac.uk/
+      mailto:azy@dcs.bbk.ac.uk
+      http://www.mmu.edu.my/
+      http://www.mmu.edu.my/
+      http://www.mmu.edu.my/services/cits/cits-main.html
+      http://www.mmu.edu.my/
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/mark.htm
+      http://www.firstmonday.org/issues/issue6_9/mat/index.html
+      http://www.dcs.bbk.ac.uk/~mark/search.html
+      http://gong.mmu.edu.my/
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/research.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/webtech.htm
+      http://www.dcs.bbk.ac.uk/seminars
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/phd.htm
+      http://www.dcs.bbk.ac.uk/research/research_methods.html
+      http://www.dcs.bbk.ac.uk/research/industry.html
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/students.htm
+      http://www.dcs.bbk.ac.uk/research/recentphds.html
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/staff.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../mark.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/students.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/martin.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/azy.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://images.google.com/images?q=dummy
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../mark.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../webtech.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../scsis.htm
+      http://www.bbk.ac.uk/
+      http://www.dcs.bbk.ac.uk/~mark/book.html
+      http://www.dcs.bbk.ac.uk/~mark/handheld.html
+      http://www.dcs.bbk.ac.uk/~mark/games.html
+      http://www.dcs.bbk.ac.uk/~mark/bookshops.html
+      http://citeseer.nj.nec.com/cs
+      http://www.dcs.bbk.ac.uk/~mark/search.html
+      http://www.google.com
+      http://www.dcs.bbk.ac.uk/~mark/software.html
+      http://www.dcs.bbk.ac.uk/navigationzone/
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lkl.htm
+      http://www.dcs.bbk.ac.uk/webdyn
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../webdyn.htm
+      http://www2002.org/fulldayworkshops.html
+      http://www.dcs.bbk.ac.uk/~mark/papers.html
+      http://www.dcs.bbk.ac.uk/research/
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../phd.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../martin.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../azy.htm
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://images.google.com/images?q=dummy
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../webtech.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lkl.htm
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=nigel
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=rgj
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=ap
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=nigel
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../mark.htm
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=ap
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=ptw
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=ap
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=nigel
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=george
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=mick
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=gr
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=pjhk
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=rgj
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=nigel
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=rgj
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=keith
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=george
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../mark.htm
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=ptw
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=trevor
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=ptw
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../mark.htm
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=ap
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../mark.htm
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=george
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=trevor
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=ptw
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../mark.htm
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=ap
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../mark.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../research.htm
+      http://eros.dcs.bbk.ac.uk/dept/group_pubs.asp?resgrp=3
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../scsis.htm
+      http://www.bbk.ac.uk/
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../files/shside.jpg
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../research.htm
+      http://www.dcs.bbk.ac.uk/about/senatehouse.html
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/staff.htm
+      http://www.dcs.bbk.ac.uk/about/map.html
+      http://www.dcs.bbk.ac.uk/about/booth.html
+      http://www.dcs.bbk.ac.uk/about/scsis-bbk.txt
+      http://www.dcs.bbk.ac.uk/about/scsis-bbk.rtf
+      http://www.dcs.bbk.ac.uk/about/scsis-bbk.vcf
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lkl.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+      http://www.lonklab.ac.uk/news/index.html
+      http://www.lonklab.ac.uk/events/index.html
+      http://www.lonklab.ac.uk/projects/index.html
+      http://www.lonklab.ac.uk/biogs/index.html
+      http://www.lonklab.ac.uk/contacts/index.html
+      http://www.lonklab.ac.uk/research.html
+      http://www.lonklab.ac.uk/aims.html
+      http://www.lonklab.ac.uk/history.html
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../scsis.htm
+      http://ioewebserver.ioe.ac.uk/ioe/index.html
+      http://www.lonklab.ac.uk/research.html
+      http://www.lonklab.ac.uk/aims.html
+      http://www.lonklab.ac.uk/history.html
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../webdyn.htm
+      http://www2002.org/fulldayworkshops.html
+      http://www2002.org/
+      http://www.dcs.bbk.ac.uk/webdyn/
+      http://www.webdyn.org/index.html
+      http://www.webdyn.org/onlineproceedings.html
+      http://www.webdyn.org/programme.html
+      http://www.webdyn.org/progcomm.html
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../phd.htm
+      http://www.dcs.bbk.ac.uk/research/phdbbk_public.html#sec:report
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../mark.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../research.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../students.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+      http://www.dcs.bbk.ac.uk/seminars/
+      http://www.dcs.bbk.ac.uk/enquiry.html
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../martin.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../mark.htm
+      mailto:martin@dcs.bbk.ac.uk
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../private/martinspages.htm
+      http://validator.w3.org/check/referer
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../azy.htm
+      http://www.bbk.ac.uk
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../scsis.htm
+      http://www.bbk.ac.uk/
+      mailto:azy@dcs.bbk.ac.uk
+      http://www.mmu.edu.my/
+      http://www.mmu.edu.my/
+      http://www.mmu.edu.my/services/cits/cits-main.html
+      http://www.mmu.edu.my/
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../mark.htm
+      http://www.firstmonday.org/issues/issue6_9/mat/index.html
+      http://www.dcs.bbk.ac.uk/~mark/search.html
+      http://gong.mmu.edu.my/
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../research.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../webtech.htm
+      http://www.dcs.bbk.ac.uk/seminars
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../phd.htm
+      http://www.dcs.bbk.ac.uk/research/research_methods.html
+      http://www.dcs.bbk.ac.uk/research/industry.html
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../students.htm
+      http://www.dcs.bbk.ac.uk/research/recentphds.html
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../files/shside.jpg
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/staff.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../mark.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../martin.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../testpage.html
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../students.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../martin.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../azy.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../foo.htm
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../private/martinspages.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../private/secret.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../private/private.htm
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../foo.htm
+      http://images.google.com/images?q=dummy
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../mark.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../webtech.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../scsis.htm
+      http://www.bbk.ac.uk/
+      http://www.dcs.bbk.ac.uk/~mark/book.html
+      http://www.dcs.bbk.ac.uk/~mark/handheld.html
+      http://www.dcs.bbk.ac.uk/~mark/games.html
+      http://www.dcs.bbk.ac.uk/~mark/bookshops.html
+      http://citeseer.nj.nec.com/cs
+      http://www.dcs.bbk.ac.uk/~mark/search.html
+      http://www.google.com
+      http://www.dcs.bbk.ac.uk/~mark/software.html
+      http://www.dcs.bbk.ac.uk/navigationzone/
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../lkl.htm
+      http://www.dcs.bbk.ac.uk/webdyn
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../webdyn.htm
+      http://www2002.org/fulldayworkshops.html
+      http://www.dcs.bbk.ac.uk/~mark/papers.html
+      http://www.dcs.bbk.ac.uk/research/
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../phd.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../martin.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../azy.htm
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../testpage.html
+      http://www.dcs.bbk.ac.uk/~mark/
+      http://www.searchengineworld.com/robots/robots_tutorial.htm
+      http://www.cse.ucsc.edu/~ejw/tatum/images/tatum-crawling.jpg
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/images/goodgoing-yougotthelink.jpg
+      ftp://ftp.site.uottawa.ca/pub/courses/winter/csi3310/corejavabook/ch8/crawlerapplet/crawlerapplet.java
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../private/secret.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/private/martinspages.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/private/private.htm
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../private/private.htm
+      http://www.private-eye.co.uk/
+      http://www.uselessmoviequotes.com/umq_t009.htm
+      http://www.salon.com/people/feature/2002/05/10/yucca_mountain/
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../webtech.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../lkl.htm
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=nigel
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=rgj
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=ap
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=nigel
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../mark.htm
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=ap
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=ptw
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=ap
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=nigel
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=george
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=mick
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=gr
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=pjhk
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=rgj
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=nigel
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=rgj
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=keith
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=george
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../mark.htm
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=ptw
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=trevor
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=ptw
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../mark.htm
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=ap
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../mark.htm
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=george
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=trevor
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=ptw
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../mark.htm
+      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=ap
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../mark.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../research.htm
+      http://eros.dcs.bbk.ac.uk/dept/group_pubs.asp?resgrp=3
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../scsis.htm
+      http://www.bbk.ac.uk/
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../files/shside.jpg
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../research.htm
+      http://www.dcs.bbk.ac.uk/about/senatehouse.html
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../lower/directories/staff.htm
+      http://www.dcs.bbk.ac.uk/about/map.html
+      http://www.dcs.bbk.ac.uk/about/booth.html
+      http://www.dcs.bbk.ac.uk/about/scsis-bbk.txt
+      http://www.dcs.bbk.ac.uk/about/scsis-bbk.rtf
+      http://www.dcs.bbk.ac.uk/about/scsis-bbk.vcf
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../lkl.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+      http://www.lonklab.ac.uk/news/index.html
+      http://www.lonklab.ac.uk/events/index.html
+      http://www.lonklab.ac.uk/projects/index.html
+      http://www.lonklab.ac.uk/biogs/index.html
+      http://www.lonklab.ac.uk/contacts/index.html
+      http://www.lonklab.ac.uk/research.html
+      http://www.lonklab.ac.uk/aims.html
+      http://www.lonklab.ac.uk/history.html
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../scsis.htm
+      http://ioewebserver.ioe.ac.uk/ioe/index.html
+      http://www.lonklab.ac.uk/research.html
+      http://www.lonklab.ac.uk/aims.html
+      http://www.lonklab.ac.uk/history.html
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../webdyn.htm
+      http://www2002.org/fulldayworkshops.html
+      http://www2002.org/
+      http://www.dcs.bbk.ac.uk/webdyn/
+      http://www.webdyn.org/index.html
+      http://www.webdyn.org/onlineproceedings.html
+      http://www.webdyn.org/programme.html
+      http://www.webdyn.org/progcomm.html
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../phd.htm
+      http://www.dcs.bbk.ac.uk/research/phdbbk_public.html#sec:report
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../mark.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../research.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../students.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../
+      http://www.dcs.bbk.ac.uk/seminars/
+      http://www.dcs.bbk.ac.uk/enquiry.html
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../martin.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../mark.htm
+      mailto:martin@dcs.bbk.ac.uk
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../private/martinspages.htm
+      http://validator.w3.org/check/referer
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../azy.htm
+      http://www.bbk.ac.uk
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../scsis.htm
+      http://www.bbk.ac.uk/
+      mailto:azy@dcs.bbk.ac.uk
+      http://www.mmu.edu.my/
+      http://www.mmu.edu.my/
+      http://www.mmu.edu.my/services/cits/cits-main.html
+      http://www.mmu.edu.my/
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/../../lower/directories/../../mark.htm
+      http://www.firstmonday.org/issues/issue6_9/mat/index.html
+      http://www.dcs.bbk.ac.uk/~mark/search.html
+      http://gong.mmu.edu.my/

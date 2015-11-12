@@ -10,25 +10,24 @@ http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/azy.htm
       http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/scsis.htm
       http://www.firstmonday.org/issues/issue6_9/mat/index.html
       http://www.mmu.edu.my/
-      http://www.mmu.edu.my/
-      http://www.mmu.edu.my/
       http://www.mmu.edu.my/services/cits/cits-main.html
       mailto:azy@dcs.bbk.ac.uk
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://images.google.com/images?q=dummy
 http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lkl.htm
       http://ioewebserver.ioe.ac.uk/ioe/index.html
-      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
       http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/scsis.htm
-      http://www.lonklab.ac.uk/aims.html
       http://www.lonklab.ac.uk/aims.html
       http://www.lonklab.ac.uk/biogs/index.html
       http://www.lonklab.ac.uk/contacts/index.html
       http://www.lonklab.ac.uk/events/index.html
       http://www.lonklab.ac.uk/history.html
-      http://www.lonklab.ac.uk/history.html
       http://www.lonklab.ac.uk/news/index.html
       http://www.lonklab.ac.uk/projects/index.html
       http://www.lonklab.ac.uk/research.html
-      http://www.lonklab.ac.uk/research.html
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/staff.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/mark.htm
 http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/mark.htm
       http://citeseer.nj.nec.com/cs
       http://www.bbk.ac.uk/
@@ -60,10 +59,17 @@ http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/phd.htm
       http://www.dcs.bbk.ac.uk/enquiry.html
       http://www.dcs.bbk.ac.uk/research/phdbbk_public.html#sec:report
       http://www.dcs.bbk.ac.uk/seminars/
-      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
       http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/mark.htm
       http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/research.htm
       http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/students.htm
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/research.htm
+      http://www.dcs.bbk.ac.uk/research/industry.html
+      http://www.dcs.bbk.ac.uk/research/recentphds.html
+      http://www.dcs.bbk.ac.uk/research/research_methods.html
+      http://www.dcs.bbk.ac.uk/seminars
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/phd.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/students.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/webtech.htm
 http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/scsis.htm
       http://www.bbk.ac.uk/
       http://www.dcs.bbk.ac.uk/about/booth.html
@@ -75,6 +81,10 @@ http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/scsis.htm
       http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/files/shside.jpg
       http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/staff.htm
       http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/research.htm
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/students.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/azy.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/martin.htm
 http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/webdyn.htm
       http://www.dcs.bbk.ac.uk/webdyn/
       http://www.webdyn.org/index.html
@@ -86,35 +96,15 @@ http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/webdyn.htm
 http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/webtech.htm
       http://eros.dcs.bbk.ac.uk/dept/group_pubs.asp?resgrp=3
       http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=ap
-      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=ap
-      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=ap
-      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=ap
-      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=ap
-      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=george
-      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=george
       http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=george
       http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=gr
       http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=keith
       http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=mick
       http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=nigel
-      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=nigel
-      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=nigel
-      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=nigel
       http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=pjhk
       http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=ptw
-      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=ptw
-      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=ptw
-      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=ptw
       http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=rgj
-      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=rgj
-      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=rgj
-      http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=trevor
       http://eros.dcs.bbk.ac.uk/dept/staffperson.asp?name=trevor
       http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lkl.htm
-      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/mark.htm
-      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/mark.htm
-      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/mark.htm
-      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/mark.htm
-      http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/mark.htm
       http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/mark.htm
       http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/research.htm

@@ -1,18 +1,26 @@
 http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/
-    2
-http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/azy.htm
     1
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/azy.htm
+    2
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/foo.htm
+    0
 http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lkl.htm
+    1
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/lower/directories/staff.htm
     2
 http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/mark.htm
-    9
+    7
 http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/martin.htm
-    2
-http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/phd.htm
     1
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/phd.htm
+    3
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/research.htm
+    3
 http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/scsis.htm
+    2
+http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/students.htm
     3
 http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/webdyn.htm
-    1
+    0
 http://www.dcs.bbk.ac.uk/~martin/sewn/ls3/webtech.htm
-    1
+    3

@@ -53,5 +53,7 @@ This is the main execution loop of the program.  It maintains a list of URLs tha
 The Page class fetches a URL and parses the HTML with the Nokogiri library.  Any links that are not HTTP are set to a TTL of zero (they will not be persued) and any http(s) links have their TTL decremented by one.  Links are stored as an array to be later processed by Queue.
 
 \section{External code used}
+\textbf{Nokogiri} - Ruby gem for parsing HTML\\
+\url{https://github.com/sparklemotion/nokogiri}
 
 \end{document}
