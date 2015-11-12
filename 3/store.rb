@@ -50,14 +50,20 @@ class Store
   def count()
     counts = Hash.new
     @store.each do |url,links|
-      links.each do |url|
-        if counts.has_key?(url)
-          counts[url] += 1
-        elsif self.exists?(url)
-          counts[url] = 1
+      links.each do |link|
+        if @store.has_key?(link)
+          if counts.has_key?(url)
+            counts[url] += 1
+          else
+            counts[url] = 1
+          end
         end
       end
+      if ! counts.has_key?(url)
+        counts[url] = 0
+      end
     end
+
     to_return = ''
     counts.keys.sort.each do |url|
       to_return << url << "\n    " << counts[url].to_s << "\n"

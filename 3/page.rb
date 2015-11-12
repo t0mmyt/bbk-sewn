@@ -23,6 +23,9 @@ class Page
   def parse_links(html, ttl)
     doc = Nokogiri::HTML(html)
     doc.css('a').each do |a|
+      if a.attribute('name')
+        next
+      end
       my_ttl = ttl
       href = a.attribute('href').to_s
       # Use URI.join to dispose of nasty relative hrefs
@@ -46,7 +49,7 @@ class Page
     end
   end
 
-  # Return a list of links  
+  # Return a list of links
   def links()
     return @links
   end
