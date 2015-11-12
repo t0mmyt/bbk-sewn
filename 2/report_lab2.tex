@@ -1,0 +1,41 @@
+\documentclass[a4paper,11pt]{article}
+\title{Search Engine Optimisation and Syndicating Dynamic Content}
+\author{Tom Taylor -- 13015452}
+\renewcommand\thesubsection{\roman{subsection}}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage[margin=0.5in]{geometry}
+\usepackage{csvsimple}
+\usepackage{listings}
+\usepackage{courier}
+\usepackage[T1]{fontenc}
+\usepackage{datatool}
+\lstset{basicstyle=\footnotesize\ttfamily,breaklines=true}
+\date{22nd October 2015}
+
+\begin{document}
+\maketitle
+
+\section{}
+\lstinputlisting[language=SQL]{1.sql}
+\csvautotabular[respect underscore=true]{1.csv}
+
+\section{}
+\lstinputlisting[language=SQL]{2.sql}
+\csvautotabular[respect underscore=true]{2.csv}
+
+\section{}
+\lstinputlisting[language=SQL]{3.sql}
+\csvautotabular[respect underscore=true]{3.csv}
+
+
+\section{}
+\lstinputlisting[language=SQL]{4.sql}
+\csvautotabular[respect underscore=true]{4.csv}
+
+\section{}
+\lstinputlisting[language=SQL]{5.sql}
+%\DTLloadrawdb{tab}{5.csv}
+%\DTLdisplaydb{tab}
+
+\end{document}

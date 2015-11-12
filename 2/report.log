@@ -1,0 +1,303 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Arch Linux) (preloaded format=pdflatex 2015.10.8)  22 OCT 2015 16:59
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**report.tex
+(./report.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/share/texmf-dist/tex/latex/base/latin9.def
+File: latin9.def 2015/03/17 v1.2c Input encoding file
+))
+(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks17
+)
+! Undefined control sequence.
+\Gm@clean ...@cnth <4\let \Gm@lmargin \@undefined 
+                                                  \fi \ifodd \Gm@cnth \else ...
+l.8 \geometry{
+              verbose,tmargin=1cm,bmargin=2cm,lmargin=1.5cm,rmargin=1.5cm}
+? 
+! Interruption.
+\Gm@clean ...fodd \Gm@cnth \else \let \Gm@rmargin 
+                                                  \@undefined \fi \ifnum \Gm...
+l.8 \geometry{
+              verbose,tmargin=1cm,bmargin=2cm,lmargin=1.5cm,rmargin=1.5cm}
+? 
+! Undefined control sequence.
+\Gm@clean ...h \else \let \Gm@rmargin \@undefined 
+                                                  \fi \ifnum \Gm@cntv <4\let...
+l.8 \geometry{
+              verbose,tmargin=1cm,bmargin=2cm,lmargin=1.5cm,rmargin=1.5cm}
+? 
+! Undefined control sequence.
+\Gm@clean ...@cntv <4\let \Gm@tmargin \@undefined 
+                                                  \fi \ifodd \Gm@cntv \else ...
+l.8 \geometry{
+              verbose,tmargin=1cm,bmargin=2cm,lmargin=1.5cm,rmargin=1.5cm}
+? 
+! Undefined control sequence.
+\Gm@clean ...v \else \let \Gm@bmargin \@undefined 
+                                                  \fi \ifGm@hbody \else \let...
+l.8 \geometry{
+              verbose,tmargin=1cm,bmargin=2cm,lmargin=1.5cm,rmargin=1.5cm}
+? 
+! Undefined control sequence.
+\Gm@clean ...fi \ifGm@hbody \else \let \Gm@hscale 
+                                                  \@undefined \let \Gm@width...
+l.8 \geometry{
+              verbose,tmargin=1cm,bmargin=2cm,lmargin=1.5cm,rmargin=1.5cm}
+? 
+! Undefined control sequence.
+\Gm@clean ...dy \else \let \Gm@hscale \@undefined 
+                                                  \let \Gm@width \@undefined...
+l.8 \geometry{
+              verbose,tmargin=1cm,bmargin=2cm,lmargin=1.5cm,rmargin=1.5cm}
+? 
+! Undefined control sequence.
+\Gm@clean ...undefined \let \Gm@width \@undefined 
+                                                  \let \Gm@textwidth \@undef...
+l.8 \geometry{
+              verbose,tmargin=1cm,bmargin=2cm,lmargin=1.5cm,rmargin=1.5cm}
+? 
+! Undefined control sequence.
+\Gm@clean ...width \@undefined \let \Gm@textwidth 
+                                                  \@undefined \fi \ifGm@vbod...
+l.8 \geometry{
+              verbose,tmargin=1cm,bmargin=2cm,lmargin=1.5cm,rmargin=1.5cm}
+? 
+! Undefined control sequence.
+\Gm@clean ...fined \let \Gm@textwidth \@undefined 
+                                                  \fi \ifGm@vbody \else \let...
+l.8 \geometry{
+              verbose,tmargin=1cm,bmargin=2cm,lmargin=1.5cm,rmargin=1.5cm}
+? 
+! Undefined control sequence.
+\Gm@clean ...fi \ifGm@vbody \else \let \Gm@vscale 
+                                                  \@undefined \let \Gm@heigh...
+l.8 \geometry{
+              verbose,tmargin=1cm,bmargin=2cm,lmargin=1.5cm,rmargin=1.5cm}
+? 
+! Undefined control sequence.
+\Gm@clean ...dy \else \let \Gm@vscale \@undefined 
+                                                  \let \Gm@height \@undefine...
+l.8 \geometry{
+              verbose,tmargin=1cm,bmargin=2cm,lmargin=1.5cm,rmargin=1.5cm}
+? 
+! Undefined control sequence.
+\Gm@clean ...ndefined \let \Gm@height \@undefined 
+                                                  \let \Gm@textheight \@unde...
+l.8 \geometry{
+              verbose,tmargin=1cm,bmargin=2cm,lmargin=1.5cm,rmargin=1.5cm}
+? 
+! Undefined control sequence.
+\Gm@clean ...ight \@undefined \let \Gm@textheight 
+                                                  \@undefined \fi 
+l.8 \geometry{
+              verbose,tmargin=1cm,bmargin=2cm,lmargin=1.5cm,rmargin=1.5cm}
+? 
+! Undefined control sequence.
+\Gm@clean ...ined \let \Gm@textheight \@undefined 
+                                                  \fi 
+l.8 \geometry{
+              verbose,tmargin=1cm,bmargin=2cm,lmargin=1.5cm,rmargin=1.5cm}
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                    
+l.8 \geometry{
+              verbose,tmargin=1cm,bmargin=2cm,lmargin=1.5cm,rmargin=1.5cm}
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   2
+l.8 \geometry{
+              verbose,tmargin=1cm,bmargin=2cm,lmargin=1.5cm,rmargin=1.5cm}
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.8 \geometry{
+              verbose,tmargin=1cm,bmargin=2cm,lmargin=1.5cm,rmargin=1.5cm}
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   2
+l.8 \geometry{
+              verbose,tmargin=1cm,bmargin=2cm,lmargin=1.5cm,rmargin=1.5cm}
+? 
+! Undefined control sequence.
+\Gm@detall ...empcnta \z@ \if #1h \let \Gm@mratio 
+                                                  \Gm@hmarginratio \edef \Gm...
+l.8 \geometry{
+              verbose,tmargin=1cm,bmargin=2cm,lmargin=1.5cm,rmargin=1.5cm}
+? 
+! Undefined control sequence.
+\Gm@detall ...1h \let \Gm@mratio \Gm@hmarginratio 
+                                                  \edef \Gm@Dmratio {\if@two...
+l.8 \geometry{
+              verbose,tmargin=1cm,bmargin=2cm,lmargin=1.5cm,rmargin=1.5cm}
+? 
+! Undefined control sequence.
+\Gm@detall ...@Dhratio \fi }\else \let \Gm@mratio 
+                                                  \Gm@vmarginratio \edef \Gm...
+l.8 \geometry{
+              verbose,tmargin=1cm,bmargin=2cm,lmargin=1.5cm,rmargin=1.5cm}
+? 
+! Undefined control sequence.
+\Gm@detall ...se \let \Gm@mratio \Gm@vmarginratio 
+                                                  \edef \Gm@Dmratio {\Gm@Dvr...
+l.8 \geometry{
+              verbose,tmargin=1cm,bmargin=2cm,lmargin=1.5cm,rmargin=1.5cm}
+? 
+! Extra \else.
+\zap@space #1 #2->#1\ifx #2\@empty \else 
+                                         \expandafter \zap@space \fi #2
+l.8 \geometry{
+              verbose,tmargin=1cm,bmargin=2cm,lmargin=1.5cm,rmargin=1.5cm}
+? 
+! Argument of \zap@space has an extra }.
+<inserted text> 
+                \par 
+l.8 \geometry{
+              verbose,tmargin=1cm,bmargin=2cm,lmargin=1.5cm,rmargin=1.5cm}
+? 
+Runaway argument?
+\@empty 
+! Paragraph ended before \zap@space was complete.
+<to be read again> 
+                   \par 
+l.8 \geometry{
+              verbose,tmargin=1cm,bmargin=2cm,lmargin=1.5cm,rmargin=1.5cm}
+? 
+Runaway argument?
+\geometry {\expandafter \reserved@b \reserved@a ,\@nil ,}\fi \reserved@a \ETC.
+! Paragraph ended before \@fileswith@pti@ns was complete.
+<to be read again> 
+                   \par 
+l.9 
+    
+? 
+Runaway argument?
+\geometry {\@firstoftwo {\let \l@ngrel@x \relax \provide@command }}\def \ETC.
+! Paragraph ended before \@fileswith@pti@ns was complete.
+<to be read again> 
+                   \par 
+l.15 
+     
+? 
+Runaway argument?
+\geometry {\@fileswith@ptions \@pkgextension }\def \reserved@b {\@fileswith@pti
+ons \ETC.
+! Paragraph ended before \@fileswith@pti@ns was complete.
+<to be read again> 
+                   \par 
+l.20 
+     
+? 
+! Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.21 ...ltering of web log data and data analysis}
+                                                  
+? 
+! Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.21 ...ltering of web log data and data analysis}
+                                                  
+? 
+! Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.21 ...ltering of web log data and data analysis}
+                                                  
+? 
+! Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.21 ...ltering of web log data and data analysis}
+                                                  
+? 
+! Interruption.
+l.18232778 
+           
+? q
+OK, entering \batchmode...
+
+! Interruption.
+l.27627548 
+           
+? x
+ 
+Here is how much of TeX's memory you used:
+ 967 strings out of 493089
+ 11876 string characters out of 6140694
+ 66195 words of memory out of 5000000
+ 4512 multiletter control sequences out of 15000+600000
+ 4403 words of font info for 15 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 23i,0n,19p,458b,37s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.
+PDF statistics:
+ 0 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

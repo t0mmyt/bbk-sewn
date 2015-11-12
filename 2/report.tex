@@ -1,0 +1,162 @@
+%% LyX 2.1.3 created this file.  For more info, see http://www.lyx.org/.
+%% Do not edit unless you really know what you are doing.
+\documentclass[english]{article}
+\usepackage[T1]{fontenc}
+\usepackage[latin9]{inputenc}
+\usepackage[landscape,a4paper]{geometry}
+\geometry{verbose,tmargin=1cm,bmargin=2cm,lmargin=1.5cm,rmargin=1.5cm}
+
+\makeatletter
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% LyX specific LaTeX commands.
+%% Because html converters don't know tabularnewline
+\providecommand{\tabularnewline}{\\}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% User specified LaTeX commands.
+\author{Tom Taylor - 13015452}
+
+\makeatother
+
+\usepackage{babel}
+\begin{document}
+
+\title{Parsing and filtering of web log data and data analysis}
+
+\maketitle
+
+\section{Prescribed queries}
+
+
+\subsection{The top ten files/pages requested}
+
+The following table shows the most common requests received by the
+server. The top request appears to be for a CSS library (or similar)
+so should probably be disregarded. The homepage appears to be 3rd
+in the list of the remaining requests, possibly suggesting that traffic
+is being linked to externally more than people are hitting the homepage.
+
+\begin{tabular}{l|l}
+\textbf{n} & \textbf{path}\tabularnewline
+\hline 
+1324 & /library/conditionalstyle.asp\tabularnewline
+957 & /uk/letters/letters.asp\tabularnewline
+872 & /uk/home/Default.asp\tabularnewline
+631 & /Default.asp\tabularnewline
+511 & /uk/financialcentre/tax\_calculator\_tool.asp\tabularnewline
+471 & /uk/letters/default.asp\tabularnewline
+388 & /uk/letters/resignation\_letter\_generator\_form\_v2.asp\tabularnewline
+387 & /uk/discussion/new\_topic.asp\tabularnewline
+281 & /uk/letters/resignation\_letter\_generator\_generate\_v2.asp\tabularnewline
+206 & /uk/financialcentre/tax\_calculator.asp\tabularnewline
+\end{tabular}
+
+
+\subsection{The top ten IP addresses (or users) who requested the most URLs.}
+
+From the data provided, there was never any username set so the username
+was disregarded in the query. The following shows the top 10 IPs.
+
+\begin{tabular}{l|l}
+\textbf{n} & \textbf{IP}\tabularnewline
+\hline 
+554 & 195.149.39.85\tabularnewline
+328 & 65.214.36.156\tabularnewline
+194 & 65.214.36.152\tabularnewline
+192 & 213.199.149.236\tabularnewline
+88 & 209.140.222.149\tabularnewline
+84 & 195.92.168.177\tabularnewline
+79 & 62.254.0.7\tabularnewline
+72 & 192.168.1.6\tabularnewline
+60 & 12.47.98.180\tabularnewline
+58 & 62.255.64.5\tabularnewline
+\end{tabular}
+
+
+\subsection{The top three most active hours (most requests per hour).}
+
+The following table shows the three busiest hours.
+
+\begin{tabular}{l|l}
+\textbf{n} & \textbf{hour}\tabularnewline
+\hline 
+645 & 20\tabularnewline
+608 & 14\tabularnewline
+597 & 18\tabularnewline
+\end{tabular}
+
+
+\subsection{The number of requests per query method.}
+
+The majority of requests were GET requests which would be expected
+from a WWW webserver. The 10 that had no method type were also errors
+of various types.
+
+\begin{tabular}{l|l}
+\textbf{n} & \textbf{method}\tabularnewline
+\hline 
+9583 & GET\tabularnewline
+240 & POST\tabularnewline
+10 & HEAD\tabularnewline
+10 & -\tabularnewline
+\end{tabular}
+
+
+\section{Additional queries}
+
+
+\subsection{Errors served with internal referrals}
+
+The following table shows error documents that were served from a
+visitor following an internal link. This would be of interest to the
+webmasters/content owners/developers to identify potential faults
+with the content or application server.
+
+\begin{tabular}{l|l|l|l}
+\textbf{n} & \textbf{path} & \textbf{status} & \textbf{referrer}\tabularnewline
+\hline 
+6 & /uk/letters/letters/letterform.asp & 404 & http://www.i-resign.com/uk/letters/kissmyass\_resign.asp\tabularnewline
+6 & /uk/letters/workinglife/viewarticle\_4.asp & 404 & http://www.i-resign.com/uk/letters/dilbert\_resign.asp\tabularnewline
+3 & /uk/letters/halloffame/ & 404 & http://www.i-resign.com/uk/letters/kissmyass\_resign.asp\tabularnewline
+3 & /us/financialcenter/\_tc.asp & 500 & http://www.i-resign.com/us/financialcenter/federal\_tax\_estimator\_2.asp\#form\tabularnewline
+3 & /uk/letters/letters/http:/www.i-resign.com & 404 & http://www.i-resign.com/uk/letters/letters/letterform.asp\tabularnewline
+2 & /uk/letters/resignation\_letter\_generator\_generate\_v2.asp & 500 & http://www.i-resign.com/uk/letters/resignation\_letter\_generator\_generate\_v2.asp?country=\&RT=move\&yourname=Marilou+Messina\&nperiod=2\&job\_title=Crder+Entr\%2FCustoer+Service\&department\_name=\&bossname=Mr.+Michael+T.+Gill\%2C+Controler\&companyname=J\%26M+Reproduction\&firmaddress=1200+Rochester+Road\&firmcity=Troy\&firmregion=MI\&post\_code=48083\tabularnewline
+2 & /uk/stress/ & 404 & http://www.i-resign.com/uk/legaladvice/top.asp\tabularnewline
+2 & /uk/letters/letters/http:/http:/www.i-resign.com & 404 & http://www.i-resign.com/uk/letters/letters/http\%3A//www.i-resign.com\tabularnewline
+1 & /cgi-bin/formmail.pl & 404 & http://www.i-resign.com/\tabularnewline
+1 & /cgi-bin/formmail.cgi & 404 & http://www.i-resign.com/\tabularnewline
+1 & /uk/discussion/new\_topic.asp & 500 & http://www.i-resign.co.uk/uk/search/Default.asp?free=\&query=holiday+pay\&p=1\tabularnewline
+\end{tabular}
+
+\pagebreak{}
+
+
+\subsection{Traffic from Search Engines}
+
+In Januray 2003, according to OneStat, the top three search engines
+were Google, Yahoo and MSN with 54.7\%, 22.1\% and 9.5\% respectively.
+The following table shows the number of requests from each of those
+engines. They are not shown as a \% as that would be misleading (not
+all search engines were considered so the traffic would be skewed)
+but it can be seen that they are similar in ratio to the reported
+statistics of the time.
+
+\begin{tabular}{l|l}
+\textbf{n} & \textbf{search\_engine}\tabularnewline
+\hline 
+407 & Google\tabularnewline
+181 & MSN\tabularnewline
+300 & Yahoo\tabularnewline
+\end{tabular}
+
+
+\section{Appendix}
+
+
+\subsection{Queries that would be interesting but no longer relevent}
+
+It would have been interesting to compare the IP addresses with Geo
+location datasets to analyse where traffic is coming from. It would
+also have been interesting to query PTR records for the IPs to more
+accurately identify crawlers and bots and also get a snapshot of ISPs.
+Unfortunately the current IP data would be far out of date now.
+\end{document}
