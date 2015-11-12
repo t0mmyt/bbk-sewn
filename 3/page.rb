@@ -3,6 +3,7 @@ require 'nokogiri'
 require 'net/http'
 require 'uri'
 
+# Page class to get and parse HTML pages and reurn links
 class Page
   def initialize(url, robots, ttl)
     @links = Array.new
@@ -12,11 +13,13 @@ class Page
     parse_links(get(url), ttl)
   end
 
+  # HTTP GET utility
   def get(url)
     puts "HTTP GET:  " + url
     Net::HTTP.get(URI(url))
   end
 
+  # Get links from HTML
   def parse_links(html, ttl)
     doc = Nokogiri::HTML(html)
     doc.css('a').each do |a|
@@ -43,6 +46,7 @@ class Page
     end
   end
 
+  # Return a list of links  
   def links()
     return @links
   end

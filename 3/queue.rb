@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 require File.dirname(__FILE__) + '/page.rb'
 
+# Queue class is the guts and contains the main loop
 class Queue
   def initialize(seed, ttl, robots, store, restrict)
     @store = store
@@ -8,12 +9,14 @@ class Queue
     @robots = robots
     @restrict = restrict
     self.push(seed, ttl)
+    # This is the main loop
     until @queue.length <= 0
       puts "QueueLen:" + @queue.length.to_s
       self.shift
     end
   end
 
+  # Add a url (with ttl) to the fifo queue
   def push(url, ttl)
     url= @store.sanitise(url)
     # Is it in robots?
@@ -33,6 +36,7 @@ class Queue
       end
   end
 
+  # Take a link from the queue and run with it
   def shift()
     # If our ttl is zero, skip
     if @queue.length < 1

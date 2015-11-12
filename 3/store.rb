@@ -2,14 +2,15 @@
 require 'uri'
 require 'yaml'
 
+# Store class contains the K-V store of URLs and their links
 class Store
   def initialize()
     @store = Hash.new
   end
 
+  # Convert proto and DNS name to lowercase
+  # Expects a fully qualified URL.
   def sanitise(url)
-    # Convert proto and DNS name to lowercase
-    # Expects a fully qualified URL.
     if url and m = url.match(/(\w+)(:\/*)([\w\.\-].*)(\/?.*)?/)
       clean_url = m.captures[0].downcase + m.captures[1] + m.captures[2].downcase
       if m.captures[3]
@@ -20,6 +21,7 @@ class Store
     end
   end
 
+  # Add a URL and it's links to the store
   def add(url, children)
     @store[sanitise(url)] = Array.new
     # Add all unique linkes
@@ -28,10 +30,12 @@ class Store
     end
   end
 
+  # Check for a URL in the store
   def exists?(url)
     return @store.has_key?(sanitise(url))
   end
 
+  # Produces crawl.txt output
   def dump()
     to_return = String.new
     @store.keys.sort.each do |k|
