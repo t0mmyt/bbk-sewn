@@ -8,8 +8,9 @@ class Queue
     @robots = robots
     @restrict = restrict
     self.push(seed, ttl)
-    until ! self.shift()
-      # empty loop
+    until @queue.length <= 0
+      puts "QueueLen:" + @queue.length.to_s
+      self.shift
     end
   end
 
@@ -25,6 +26,7 @@ class Queue
     # Do we already have it?, Is it in robots.txt?, Is it within our restriction
     exists = @store.exists?(url)
     if !exists and url.start_with?(@restrict) and !robot
+      puts "-> QUEUE: %3d %s" % [ttl, url]
       @queue.push({
         'url'     => url,
         'ttl'     => ttl })
@@ -35,11 +37,10 @@ class Queue
     # If our ttl is zero, skip
     if @queue.length < 1
       return nil
-    else
-      puts "QUEUE:" + @queue.length.to_s
     end
     # Get next from queue
     this = @queue.shift
+    puts "QUEUE ->: %3d %s" % [this['ttl'], this['url']]
     # Do we already have this page?
     if ! @store.exists?(this['url'])
       # Get page and read links

@@ -8,12 +8,12 @@ class Page
     @links = Array.new
     @base_url = url[0, url.rindex('/', -1) + 1]
     @ttl = ttl
-    puts "TTL:  " + @ttl.to_s + " BASE: " + @base_url
+    # puts "PAGE TTL:  " + @ttl.to_s + " BASE: " + @base_url
     parse_links(get(url), ttl)
   end
 
   def get(url)
-    puts "GET:  " + url
+    puts "HTTP GET:  " + url
     Net::HTTP.get(URI(url))
   end
 

@@ -21,12 +21,11 @@ class Store
   end
 
   def add(url, children)
-    sanitised_children = Array.new
-    children.each do |c|
-      sanitised_children.push(sanitise(c['href']))
+    @store[sanitise(url)] = Array.new
+    # Add all unique linkes
+    children.uniq.each do |c|
+      @store[sanitise(url)].push(sanitise(c['href']))
     end
-
-    @store[sanitise(url)] = sanitised_children
   end
 
   def exists?(url)
