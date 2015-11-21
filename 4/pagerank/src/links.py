@@ -1,4 +1,5 @@
 from urlparse import urljoin
+from collections import OrderedDict
 import re
 import numpy as np
 
@@ -6,10 +7,10 @@ np.set_printoptions(threshold=np.nan, linewidth=np.nan)
 
 
 class Parser:
-    outbound_full = dict()
-    inbound_full = dict()
-    outbound_local = dict()
-    inbound_local = dict()
+    outbound_full = OrderedDict()
+    inbound_full = OrderedDict()
+    outbound_local = OrderedDict()
+    inbound_local = OrderedDict()
     urls_local = None
     urls_full = None
     is_url = re.compile('^Visited:\s+(.*)$')
@@ -46,7 +47,7 @@ class Parser:
         for url in self.outbound_full.keys():
             self.outbound_local[url] = list()
             for link in self.outbound_full[url]:
-                if link in self.outbound_local:
+                if link in self.outbound_full.keys():
                     self.outbound_local[url].append(link)
 
         # Parse outbound links to create reverse map
@@ -80,6 +81,8 @@ class Parser:
 class Compute:
     matrix = None
     url_list = None
+    pr = list()
+    iters = 0
 
     def __init__(self, matrix, url_list):
         """
@@ -90,9 +93,10 @@ class Compute:
         assert isinstance(url_list, list), "url_list was not a list"
         self.matrix = matrix
         self.url_list = url_list
+        self.pr = [1] * len(self.url_list)
 
     def links(self, axis):
-        return dict(zip(
+        return OrderedDict(zip(
             self.url_list,
             np.array(np.sum(self.matrix, axis=axis, dtype=np.int32).reshape(-1, ))[0].tolist()
         ))
@@ -107,12 +111,12 @@ class Compute:
 
     @staticmethod
     def stats(links):
-        my_stats = dict()
+        my_stats = OrderedDict()
         my_stats['n'] = len(links)
         my_stats['sum'] = sum(links.values())
         my_stats['mean'] = sum(links.values()) / float(my_stats['n'])
-        my_stats['stddev'] = np.std(links.values())
-        my_stats['variance'] = np.std(links.values())
+        my_stats['stddev'] = float(np.std(links.values()))
+        my_stats['variance'] = float(np.std(links.values()))
         return my_stats
 
     @property
@@ -125,7 +129,7 @@ class Compute:
 
     @staticmethod
     def degree_dist(links):
-        out = dict()
+        out = OrderedDict()
         for i in sorted(set(links.values())):
             out[i] = links.values().count(i)
         return out
@@ -137,3 +141,31 @@ class Compute:
     @property
     def degree_dist_out(self):
         return self.degree_dist(self.outlinks)
+
+    @property
+    def adj_list_in(self):
+        adj_list = list()
+        for y in range(0, len(self.matrix[:, 0])):
+            adj_list.append(list(np.nonzero(self.matrix[y])[1]))
+        return adj_list
+
+    @property
+    def adj_list_out(self):
+        adj_list = list()
+        for y in range(0, len(self.matrix[:, 0])):
+            adj_list.append(list(np.nonzero(self.matrix[:,y])[0]))
+        return adj_list
+
+    def pagerank_iter(self, t):
+        self.iters += 1
+        max_diff = 0
+        n = len(self.pr)
+        t_by_n = t / n
+
+        for i in range(0, len(self.pr)):
+            new_pr = \
+                t_by_n + (1 - t) * \
+                sum([float(self.pr[j])/len(self.adj_list_out[j]) for j in self.adj_list_in[i]])
+            max_diff = max(max_diff, abs(self.pr[i] - new_pr))
+            self.pr[i] = new_pr
+        return max_diff
