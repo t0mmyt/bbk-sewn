@@ -83,6 +83,8 @@ class Compute:
     url_list = None
     pr = list()
     iters = 0
+    adj_list_in = list()
+    adj_list_out = list()
 
     def __init__(self, matrix, url_list):
         """
@@ -94,6 +96,13 @@ class Compute:
         self.matrix = matrix
         self.url_list = url_list
         self.pr = [1] * len(self.url_list)
+
+        # Generate adjececny lists from matrix
+        for y in range(0, len(self.matrix[:, 0])):
+            # Adjecency list IN
+            self.adj_list_in.append(list(np.nonzero(self.matrix[y])[1]))
+            # Adjececny list OUT
+            self.adj_list_out.append(list(np.nonzero(self.matrix[:,y])[0]))
 
     def links(self, axis):
         return OrderedDict(zip(
@@ -141,20 +150,6 @@ class Compute:
     @property
     def degree_dist_out(self):
         return self.degree_dist(self.outlinks)
-
-    @property
-    def adj_list_in(self):
-        adj_list = list()
-        for y in range(0, len(self.matrix[:, 0])):
-            adj_list.append(list(np.nonzero(self.matrix[y])[1]))
-        return adj_list
-
-    @property
-    def adj_list_out(self):
-        adj_list = list()
-        for y in range(0, len(self.matrix[:, 0])):
-            adj_list.append(list(np.nonzero(self.matrix[:,y])[0]))
-        return adj_list
 
     def pagerank_iter(self, t):
         self.iters += 1
